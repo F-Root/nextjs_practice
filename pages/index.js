@@ -3,5 +3,5 @@ import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
-  return <div>hello, nextjs 3</div>;
+  return <div>hello, nextjs 3 - exp</div>;
 }
